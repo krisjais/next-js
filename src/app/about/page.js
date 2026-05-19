@@ -9,7 +9,7 @@ export default function About() {
       <div className="h-1 w-16 bg-blue-600 mb-6"></div>
 
       <div className="text-3xl font-semibold text-gray-700">
-        VJ
+        VK
       </div>
       
       <p className="text-gray-700 leading-relaxed mb-6">
